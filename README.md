@@ -18,7 +18,7 @@ Aqui estão nossas credenciais.
 
 ## Metodologia do minicurso
 
-Esse minicurso possui o intuito de dar uma visão na linguagem de programação Python. Apesar do curso ter o nome de "Introdução ao Python", todos os conhecimentos obtidos podem ser transferidos para o estudo de outraslinguagens de programação, haja vista que os conceitos são semelhantes para a maioria das linguagens de programação modernas que você entrará em contato ao longo de sua carreira. Ao final do curso, esperamos que o aluno seja capaz de não só ter conhecimentos básicos de Python, mas também da lógica de programação no geral. 
+Esse minicurso possui o intuito de dar uma visão na linguagem de programação Python. Apesar do curso ter o nome de "Introdução ao Python", todos os conhecimentos obtidos podem ser transferidos para o estudo de outras linguagens de programação, haja vista que os conceitos são semelhantes para a maioria das linguagens de programação modernas que você entrará em contato ao longo de sua carreira. Ao final do curso, esperamos que o aluno seja capaz de não só ter conhecimentos básicos de Python, mas também da lógica de programação no geral. 
 
 ## Como se inscrever
 
