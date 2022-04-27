@@ -3,7 +3,7 @@
 ## Sumário
 
 1. [Apresentação](#apresentação)
-2. [Metodologia do curso](#metodologia-do-curso)
+2. [Metodologia do minicurso](#metodologia-do-minicurso)
 3. [Como se inscrever](#como-se-inscrever)
 
 ## Apresentação
