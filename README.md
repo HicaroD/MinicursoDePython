@@ -19,6 +19,7 @@ Aqui estão nossas credenciais.
 | Nome completo                         | Matrícula | Função              |
 |---------------------------------------|-----------|---------------------|
 | Hícaro Dânrlley Miguel Silva          | 21110431  | Instrutor           |
+| Emmanoel Matheus Lopes dos Santos     | 21111923  | Instrutor           |
 | Flávio Marcelo Barbosa Ferreira Filho | 21110289  | Editor e roteirista |
 
 ## Pré-requisitos
