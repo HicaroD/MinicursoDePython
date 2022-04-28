@@ -26,6 +26,7 @@ Aqui estão nossas credenciais.
 
 ## Ferramentas utilizadas
 - [Visual Studio Code](https://code.visualstudio.com/Download) - um editor de código
+- [OBS Studio](https://obsproject.com/pt-br) - ferramenta utilizada para gravação das aulas
 
 ## Justificativa
 
