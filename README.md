@@ -30,7 +30,7 @@ Aqui estão nossas credenciais.
 
 ## Justificativa
 
-Escolhemos falar sobre Python porque é um conhecimento comum entre todos os integrantes, isso nos deixar confortáveis para explicarmos o conteúdo da melhor maneira possível.
+Escolhemos falar sobre Python porque é um conhecimento comum a todos os integrantes, isso nos deixar confortáveis para explicarmos o conteúdo da melhor maneira possível.
 
 ## Organização das aulas
 
