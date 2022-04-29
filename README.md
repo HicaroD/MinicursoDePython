@@ -7,8 +7,9 @@
 3. [Ferramentas utilizadas](#ferramentas-utilizadas)
 4. [Justificativa](#justificativa)
 5. [Organização das aulas](#organização-das-aulas)
-6. [Metodologia do minicurso](#metodologia-do-minicurso)
-7. [Como se inscrever](#como-se-inscrever)
+6. [Cronograma](#cronograma)
+7. [Metodologia do minicurso](#metodologia-do-minicurso)
+8. [Como se inscrever](#como-se-inscrever)
 
 ## Apresentação
 
@@ -33,6 +34,18 @@ Aqui estão nossas credenciais.
 ## Justificativa
 
 Escolhemos falar sobre Python porque é um conhecimento comum a todos os integrantes, isso nos deixar confortáveis para explicarmos o conteúdo da melhor maneira possível.
+
+## Cronograma
+
+| Módulos                                  | Exercícios |
+|------------------------------------------|------------|
+| Hello World                              | x a y      |
+| Comentários + Variáveis e tipos de dados | x a y      |
+| Condicionais                             | x a y      |
+| Loops                                    | x a y      |
+| Funções                                  | x a y      |
+| Estruturas de dados                      | x a y      |
+| Classes e objetos                        | x a y      |
 
 ## Organização das aulas
 
