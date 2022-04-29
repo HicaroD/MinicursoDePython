@@ -26,6 +26,7 @@ Aqui estão nossas credenciais.
 **NENHUM**. Não é necessário ter nenhuma experiência com programação para seguir esse minicurso.
 
 ## Ferramentas utilizadas
+- [Python 3.8 ou mais recente](https://www.python.org/)
 - [Visual Studio Code](https://code.visualstudio.com/Download) - um editor de código
 - [OBS Studio](https://obsproject.com/pt-br) - ferramenta utilizada para gravação das aulas
 
