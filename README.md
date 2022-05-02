@@ -44,7 +44,10 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 | Condicionais                             | x a y      |
 | Loops                                    | x a y      |
 | Funções                                  | x a y      |
-| Estruturas de dados                      | x a y      |
+| Lista                                    | x a y      |
+| Tuplas                                   | x a y      |
+| Conjuntos                                | x a y      |
+| Dicionários                              | x a y      |
 | Classes e objetos                        | x a y      |
 
 ## Organização das aulas
