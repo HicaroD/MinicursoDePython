@@ -1,4 +1,3 @@
-================================
 Desafios Condicionais (if/else):
 ================================
 Exercício Python 28: Escreva um programa que faça o computador “pensar” em um número 
