@@ -39,16 +39,22 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 
 | Módulos                                  | Exercícios |
 |------------------------------------------|------------|
-| Hello World                              | x a y      |
-| Comentários + Variáveis e tipos de dados | x a y      |
-| Condicionais                             | x a y      |
-| Loops                                    | x a y      |
-| Funções                                  | x a y      |
-| Lista                                    | x a y      |
-| Tuplas                                   | x a y      |
+| Hello World                              | Nenhum     |
+| Comentários + Variáveis e tipos de dados | Nenhum     |
+| [Condicionais][]                         | x a y      |
+| [Loops][]                                | x a y      |
+| [Funções][]                              | x a y      |
+| [Lista][]                                | x a y      |
+| [Tuplas][]                               | x a y      |
 | Conjuntos                                | x a y      |
 | Dicionários                              | x a y      |
 | Classes e objetos                        | x a y      |
+
+[Condicionais]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-condicionais-ifelse
+[Loops]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-loops-for
+[Funções]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-fun%C3%A7%C3%B5es-print
+[Lista]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-listas
+[Tuplas]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-tuplas
 
 ## Organização das aulas
 
