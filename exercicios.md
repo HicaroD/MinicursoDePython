@@ -1,3 +1,19 @@
+Desafios Estruturas condicionais:
+================================
+
+Exercício Python 41: Escreva um programa que leia do teclado as duas notas de um aluno, calcule e exiba a média aritmética das notas. O programa deve, adicionalmente, exibir uma mensagem de parabéns caso o aluno esteja aprovado (média superior ou igual a 5,0)
+Exercício Python 42: Faça um programa que receba um número inteiro e verifique se este número é par ou ímpar.
+Exercício Python 43: Leia um número fornecido pelo usuário. Se esse número for positivo, calcule a raiz quadrada do número. Se o número for negativo, mostre uma mensagem dizendo que o número é inválido.
+
+Créditos: https://www.studocu.com/pt-br/document/universidade-estadual-da-paraiba/algoritmos/lista-de-exercicio-respondido-em-python-estrutura-condicional/4958982
+
+Desafios Conjuntos:
+================================
+
+Exercício Python 44: Verifique se dois conjuntos têm, pelo menos, um elemento em comum.
+
+Créditos: https://acervolima.com/exercicio-de-conjunto-python/
+
 Desafios Loops (For):
 ================================
 
