@@ -46,9 +46,9 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 | [Funções][]                              | x a y      |
 | [Lista][]                                | x a y      |
 | [Tuplas][]                               | x a y      |
-| [Conjuntos][]                            | 38 a 39    |
+| [Conjuntos][]                            | 38 e 39    |
 | [Dicionários][]                          | 68         |
-| [Classes e objetos][]                    | 69 a 70    |
+| [Classes e objetos][]                    | 69 e 70    |
 
 [Condicionais]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-estruturas-condicionais
 [Loops]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-loops-for
