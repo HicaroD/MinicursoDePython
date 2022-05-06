@@ -317,3 +317,5 @@ Exercício Python 69:
     b) ObterArea – Retorna a área da figura representada 
 
     c) ObterTipo – Retorna o tipo do triângulo: Equilátero, Isósceles ou Escaleno
+
+Créditos: https://www.scribd.com/document/374615607/Exercicios-Classes-e-Objetos
