@@ -56,7 +56,7 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 [Lista]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-listas
 [Tuplas]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-tuplas
 [Conjuntos]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-conjuntos
-[Dicionários]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md
+[Dicionários]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-dicion%C3%A1rios
 [Classes e objetos]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-classes-e-objetos
 
 ## Organização das aulas
