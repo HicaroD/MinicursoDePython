@@ -310,7 +310,7 @@ e sua população. A classe deve possuir os seguintes construtores e métodos:
 
 Exercício Python 69:
 
- 2 - Escreva uma classe que represente um triângulo. Esta classe deve possuir um método construtor que receba os 3 lados da figura desejada. Além disso deve conter os seguintes comportamentos: 
+Escreva uma classe que represente um triângulo. Esta classe deve possuir um método construtor que receba os 3 lados da figura desejada. Além disso deve conter os seguintes comportamentos: 
 
     a) ObterPerimetro – Retorna o perímetro da figura representada 
 
