@@ -47,8 +47,8 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 | [Lista][]                                | x a y      |
 | [Tuplas][]                               | x a y      |
 | [Conjuntos][]                            | 38 a 39    |
-| Dicionários                              | x a y      |
-| Classes e objetos                        | x a y      |
+| [Dicionários][]                          | 68         |
+| [Classes e objetos][]                    | 69 a 70    |
 
 [Condicionais]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-estruturas-condicionais
 [Loops]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-loops-for
@@ -56,6 +56,8 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 [Lista]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-listas
 [Tuplas]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-tuplas
 [Conjuntos]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-conjuntos
+[Dicionários]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md
+[Classes e objetos]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-classes-e-objetos
 
 ## Organização das aulas
 
