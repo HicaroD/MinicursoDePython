@@ -151,7 +151,7 @@ Desafios Conjuntos:
 
 Exercício Python 38: Verifique se dois conjuntos têm, pelo menos, um elemento em comum.
 
-Exercício Python 39: Escreva uma função que recebe uma lista de elementos e retorne a quantidade de elementos únicos (distintos) na lista.
+Exercício Python 39: Escreva uma função que recebe uma coleção de elementos e remova todos os elementos repetidos
 
 Créditos: https://acervolima.com/exercicio-de-conjunto-python/
 
