@@ -41,12 +41,12 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 |------------------------------------------|------------|
 | Hello World                              | Nenhum     |
 | Comentários + Variáveis e tipos de dados | Nenhum     |
-| [Condicionais][]                         | 41 a 43    |
+| [Condicionais][]                         | 1 a 3      |
 | [Loops][]                                | x a y      |
 | [Funções][]                              | x a y      |
 | [Lista][]                                | x a y      |
 | [Tuplas][]                               | x a y      |
-| Conjuntos                                | x a y      |
+| [Conjuntos][]                            | 38 a 39    |
 | Dicionários                              | x a y      |
 | Classes e objetos                        | x a y      |
 
@@ -55,6 +55,7 @@ Escolhemos falar sobre Python porque é um conhecimento comum a todos os integra
 [Funções]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-fun%C3%A7%C3%B5es-print
 [Lista]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-listas
 [Tuplas]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-tuplas
+[Conjuntos]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-conjuntos
 
 ## Organização das aulas
 
