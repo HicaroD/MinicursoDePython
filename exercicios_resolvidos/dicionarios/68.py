@@ -28,12 +28,12 @@ def incluirNovoNome(nome, telefones):
 def incluirTelefone(nome, telefones):
     # Se o nome já estiver na lista, adicione os novos telefones junto aos outros 
     if nome in agenda_telefonica.keys():
-        agenda_telefonica[nome] += telefones
+        agenda_telefonica[nome] = agenda_telefonica[nome] + telefones
     # Caso o nome não exista, pergunte se quer adicionar. Caso sim, adicione, caso contrário, faça nada
     else:
         quer_adicionar = input("Esse nome não existe na agenda. Quer adicionar? (S/N)")
         if quer_adicionar == "S":
-            agenda_telefonica[nome] = telefones
+            incluirNovoNome(nome, telefones)
 
 def excluirTelefone(nome, telefone):
     # Se o nome estiver na lista
