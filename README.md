@@ -1,5 +1,8 @@
 # Minicurso de introdução ao Python
 
+![python](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fthegiantreport.com%2Fwp-content%2Fuploads%2F2021%2F01%2F3145740_fdaa-768x432-1.jpeg&f=1&nofb=1)
+**Credits:** https://thegiantreport.com/wp-content/uploads/2021/01/3145740_fdaa-768x432-1.jpeg
+
 ## Sumário
 
 1. [Apresentação](#apresentação)
