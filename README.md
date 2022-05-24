@@ -59,7 +59,7 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 | Hello World                              | Nenhum     |
 | Comentários + Variáveis e tipos de dados | Nenhum     |
 | [Condicionais][]                         | 1 a 3      |
-| [Loops][]                                | x a y      |
+| [Loops][]                                | 5, 13 e 14 |
 | [Funções][]                              | x a y      |
 | [Lista][]                                | x a y      |
 | [Tuplas][]                               | x a y      |
