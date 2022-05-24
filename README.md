@@ -61,7 +61,7 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 | [Condicionais][]                         | 1 a 3      	|
 | [Loops][]                                | 5, 13, 14, 23 e 25 |
 | [Funções][]                              | x a y		|
-| [Lista][]                                | x a y      	|
+| [Lista][]                                | 37, 39, 41      	|
 | [Tuplas][]                               | 26, 29, 30     	|
 | [Conjuntos][]                            | 32 e 33    	|
 | [Dicionários][]                          | 62         	|
