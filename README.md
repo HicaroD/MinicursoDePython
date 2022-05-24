@@ -63,9 +63,9 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 | [Funções][]                              | x a y      |
 | [Lista][]                                | x a y      |
 | [Tuplas][]                               | x a y      |
-| [Conjuntos][]                            | 38 e 39    |
-| [Dicionários][]                          | 68         |
-| [Classes e objetos][]                    | 69 e 70    |
+| [Conjuntos][]                            | 32 e 33    |
+| [Dicionários][]                          | 62         |
+| [Classes e objetos][]                    | 63 e 64    |
 
 [Condicionais]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-estruturas-condicionais
 [Loops]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-loops-for
