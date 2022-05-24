@@ -54,18 +54,18 @@ Esse minicurso possui o intuito de dar uma visão na linguagem de programação 
 
 Como a ideia do curso é ficar sempre com a mão no código através das aulas e das resoluções de exercícios, o curso não terá um cronograma fixo, haja vista que uma playlist com todas as aulas será disponibilizada e o aluno será capaz de assistir e responder aos exercícios na hora que ele quiser.
 
-| Módulos                                  | Exercícios |
-|------------------------------------------|------------|
-| Hello World                              | Nenhum     |
-| Comentários + Variáveis e tipos de dados | Nenhum     |
-| [Condicionais][]                         | 1 a 3      |
-| [Loops][]                                | 5, 13 e 14 |
-| [Funções][]                              | x a y      |
-| [Lista][]                                | x a y      |
-| [Tuplas][]                               | x a y      |
-| [Conjuntos][]                            | 32 e 33    |
-| [Dicionários][]                          | 62         |
-| [Classes e objetos][]                    | 63 e 64    |
+| Módulos                                  | Exercícios		|
+|------------------------------------------|--------------------|
+| Hello World                              | Nenhum     	|
+| Comentários + Variáveis e tipos de dados | Nenhum     	|
+| [Condicionais][]                         | 1 a 3      	|
+| [Loops][]                                | 5, 13, 14, 23 e 25 |
+| [Funções][]                              | x a y		|
+| [Lista][]                                | x a y      	|
+| [Tuplas][]                               | 26, 29, 30     	|
+| [Conjuntos][]                            | 32 e 33    	|
+| [Dicionários][]                          | 62         	|
+| [Classes e objetos][]                    | 63 e 64    	|
 
 [Condicionais]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-estruturas-condicionais
 [Loops]: https://github.com/HicaroD/MinicursoDePython/blob/master/exercicios.md#desafios-loops-for
