@@ -60,7 +60,7 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 | Comentários + Variáveis e tipos de dados | Nenhum     	|
 | [Condicionais][]                         | 1 a 3      	|
 | [Loops][]                                | 5, 13, 14, 23 e 25 |
-| [Funções][]                              | x a y		|
+| [Funções][]                              | 51, 54 e 55	|
 | [Lista][]                                | 37, 39, 41      	|
 | [Tuplas][]                               | 26, 29, 30     	|
 | [Conjuntos][]                            | 32 e 33    	|
