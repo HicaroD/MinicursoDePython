@@ -88,4 +88,4 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 
 ## Como se inscrever
 
-Para se inscrever, basta entrar nesse [link para sala do Classroom](https://classroom.google.com/c/NTA2NzU1NDg4MTc3?cjc=tdcvswa). Através dessa sala de aula, eu irei disponibilizar o link para uma playlist não listada no Youtube com todas as aulas do curso. Além disso, eu irei disponibilizar um [repositório no GitHub](https://github.com/HicaroD/MinicursoDePython) que conterá todos os códigos da aula onde você pode baixar e utilizar durante as aulas.
+Para se inscrever, basta entrar nesse [link para sala do Classroom](https://classroom.google.com/c/NTA2NzU1NDg4MTc3?cjc=tdcvswa). Através dessa sala de aula, eu irei disponibilizar o link para uma playlist não listada no Youtube com todas as aulas do curso. Além disso, eu irei disponibilizar um [repositório no GitHub](https://github.com/HicaroD/MinicursoDePython) que conterá todos os códigos da aula onde você pode baixar e utilizar durante as aulas. Veja [aqui](#cronograma) como funcionará o cronograma do curso.
