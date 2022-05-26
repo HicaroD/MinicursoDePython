@@ -52,9 +52,9 @@ Esse minicurso possui o intuito de dar uma visão na linguagem de programação 
 | Publicação do módulo "Comentários + variáveis e tipos de dados"       | 06/06      |
 | Publicação do módulo "Condicionais"					| 07/06      |
 | Publicação do módulo "Loops"						| 08/06      |
-| Publicação do módulo "Funções"					| 09/06      |
-| Publicação do módulo "Tuplas"						| 10/06      |
-| Publicação do módulo "Lista"						| 11/06      |
+| Publicação do módulo "Tuplas"						| 09/06      |
+| Publicação do módulo "Lista"						| 10/06      |
+| Publicação do módulo "Funções"					| 11/06      |
 | Publicação do módulo "Conjuntos"					| 12/06      |
 | Publicação do módulo "Dicionários"					| 13/06      |
 | Publicação do módulo "Classes e objetos"				| 14/06      |
@@ -70,9 +70,9 @@ Como a ideia do curso é ficar sempre com a mão no código através das aulas e
 | Comentários + Variáveis e tipos de dados | Nenhum     	|
 | [Condicionais][]                         | 1 a 3      	|
 | [Loops][]                                | 5, 13, 14, 23 e 25 |
-| [Funções][]                              | 51, 54 e 55	|
 | [Tuplas][]                               | 26, 29, 30     	|
 | [Lista][]                                | 37, 39, 41      	|
+| [Funções][]                              | 51, 54 e 55	|
 | [Conjuntos][]                            | 32 e 33    	|
 | [Dicionários][]                          | 62         	|
 | [Classes e objetos][]                    | 63 e 64    	|
