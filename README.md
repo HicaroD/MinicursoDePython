@@ -48,17 +48,9 @@ Esse minicurso possui o intuito de dar uma visão na linguagem de programação 
 | Acontecimentos							| Horários   |
 |-----------------------------------------------------------------------|------------|
 | Início das inscrições		           				| 01/06      |
-| Publicação do módulo "Hello World"       				| 05/06      |
-| Publicação do módulo "Comentários + variáveis e tipos de dados"       | 06/06      |
-| Publicação do módulo "Condicionais"					| 07/06      |
-| Publicação do módulo "Loops"						| 08/06      |
-| Publicação do módulo "Tuplas"						| 09/06      |
-| Publicação do módulo "Lista"						| 10/06      |
-| Publicação do módulo "Funções"					| 11/06      |
-| Publicação do módulo "Conjuntos"					| 12/06      |
-| Publicação do módulo "Dicionários"					| 13/06      |
-| Publicação do módulo "Classes e objetos"				| 14/06      |
 | Vídeo-aula síncrona para tirar dúvidas                                | 25/06      |
+
+![conteudos](imagens/conteudos.jpg)
 
 ## Separação dos módulos
 
