@@ -41,8 +41,7 @@ não atingiram a maioridade e quantas já são maiores.
 
 Exercício Python 13: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
 
-Exercício Python 14: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de 
-idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
+Exercício Python 14: Desenvolva um programa que leia a idade 4 pessoas. No final do programa mostre a média de idade do grupo
 
 
 Desafios Loops (While):
