@@ -47,7 +47,7 @@ Esse minicurso possui o intuito de dar uma visão na linguagem de programação 
 | Acontecimentos							| Horários   |
 |-----------------------------------------------------------------------|------------|
 | Início das inscrições		           				| 01/06      |
-| Vídeo-aula síncrona para tirar dúvidas                                | 25/06      |
+| Vídeo-aula síncrona para tirar dúvidas                                | 18/06      |
 
 ![conteudos](imagens/conteudos.jpg)
 
